@@ -1,0 +1,10 @@
+# Compiled files
+*.o
+*.obj
+
+# Executables
+latency_test
+
+# Python cache
+__pycache__/
+*.pyc
